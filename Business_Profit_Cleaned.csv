@@ -1,0 +1,101 @@
+﻿Biz ID,Business Name,Category,City,Start Date,Revenue,Expenses,Net Profit,Owner Contact,Status,Profit Margin %,Result
+B001,Arora Sports,Retail,Gurugram,2021-07-09,3731000.0,2551729.0,1179271.0,9134126396,Inactive,0.3161,Profit
+B002,Dubey Organic Foods & Sons,Services,Noida,2012-07-20,2127000.0,2391445.0,-264445.0,9485451171,Inactive,-0.1243,Loss
+B003,Mishra Book Depot Enterprises,Food,Gurugram,2022-05-04,1005000.0,951491.0,53509.0,6942993320,Closed,0.0532,Profit
+B004,Malhotra Jewellers Co.,Food,Delhi,2019-05-10,6148000.0,4377183.0,1770817.0,9924970419,Closed,0.288,Profit
+B005,Bansal Plastics & Sons,Healthcare,Meerut,2021-09-16,2033000.0,1288471.0,744529.0,9560027313,Active,0.3662,Profit
+B006,Bhatia Footwear & Sons,Tech,Ghaziabad,2015-07-02,5148000.0,4671980.0,476020.0,9831980933,Closed,0.0925,Profit
+B007,Arora Sports Pvt Ltd,Healthcare,Lucknow,2022-02-07,7925000.0,5085500.0,2839500.0,7404212552,Closed,0.3583,Profit
+B008,Verma Textiles Enterprises,Food,Delhi,2008-09-14,8660000.0,9682825.0,-1022825.0,,Active,-0.1181,Loss
+B009,Kapoor Fashion Hub Enterprises,Food,Ghaziabad,2010-02-19,1190000.0,1105107.0,84893.0,9355555531,Closed,0.0713,Profit
+B010,Tiwari Catering Pvt Ltd,Manufacturing,Meerut,2019-08-29,6193000.0,3607439.0,2585561.0,9464323393,Closed,0.4175,Profit
+B011,Sethi Opticals Enterprises,Retail,Ghaziabad,2007-02-04,8569000.0,9011000.0,-442000.0,9616854671,Active,-0.0516,Loss
+B012,Bhatia Footwear Co.,Manufacturing,Delhi,2006-04-25,2637000.0,1794796.0,842204.0,,Active,0.3194,Profit
+B013,Patel Hardware,Unknown,Delhi,2006-11-03,7676000.0,4404834.0,3271166.0,9385201412,Active,0.4262,Profit
+B014,Rastogi Pharma Pvt Ltd,Retail,Delhi,2017-03-09,4936000.0,3181983.0,1754017.0,9812308209,Closed,0.3554,Profit
+B015,Bansal Plastics Pvt Ltd,Retail,Ghaziabad,2005-12-28,8354000.0,8751724.0,-397724.0,9857704655,Active,-0.0476,Loss
+B016,Khan Mobile Point Pvt Ltd,Retail,Noida,2007-04-23,2887000.0,2020085.0,866915.0,,Inactive,0.3003,Profit
+B017,Nair Spices Co.,Retail,Meerut,2015-04-29,660000.0,451083.0,208917.0,3531362227,Inactive,0.3165,Profit
+B018,Jain Medical Store Enterprises,Services,Ghaziabad,2021-05-05,1576000.0,1278000.0,298000.0,,Closed,0.1891,Profit
+B019,Yadav Dairy Farm Co.,Retail,Gurugram,2014-02-28,4064000.0,2989359.0,1074641.0,,Closed,0.2644,Profit
+B020,Nair Spices Enterprises,Tech,Gurugram,2020-02-26,,3552897.0,,,Closed,,Unknown
+B021,Pandey Print House,Manufacturing,Meerut,2020-08-14,8273000.0,5515287.0,2757713.0,9935822550,Closed,0.3333,Profit
+B022,Saxena Tutorials Enterprises,Tech,Noida,2016-04-28,5878000.0,6107264.0,-229264.0,9609677794,Active,-0.039,Loss
+B023,Rao Software Solutions Pvt Ltd,Services,Lucknow,2013-08-04,1217000.0,779486.0,437514.0,9682624278,Inactive,0.3595,Profit
+B024,Kumar Cycle Store Enterprises,Manufacturing,Meerut,2013-09-30,245000.0,179000.0,66000.0,9686405096,Inactive,0.2694,Profit
+B025,Malhotra Jewellers,Manufacturing,Lucknow,2019-06-02,7484000.0,4237899.0,3246101.0,9327268503,Inactive,0.4337,Profit
+B026,Mishra Book Depot,Healthcare,Ghaziabad,2010-07-19,8505000.0,8526602.0,-21602.0,,Inactive,-0.0025,Loss
+B027,Reddy Constructions,Services,Ghaziabad,2017-11-30,7603000.0,8419047.0,-816047.0,,Active,-0.1073,Loss
+B028,Yadav Dairy Farm,Manufacturing,Meerut,2019-04-04,1555000.0,1752000.0,-197000.0,,Active,-0.1267,Loss
+B029,Reddy Constructions Unit-2,Manufacturing,Delhi,2013-07-02,6172000.0,5654780.0,517220.0,3780256507,Closed,0.0838,Profit
+B030,Tiwari Catering & Sons,Tech,Delhi,2016-01-04,9060000.0,8494128.0,565872.0,,Inactive,0.0625,Profit
+B031,Khan Mobile Point Pvt Ltd Ii,Retail,Gurugram,2017-01-07,2640000.0,1641000.0,999000.0,,Closed,0.3784,Profit
+B032,Gupta Electronics Enterprises,Services,Gurugram,2016-01-05,1881000.0,2014695.0,-133695.0,9604011128,Active,-0.0711,Loss
+B033,Agarwal Sweets Enterprises,Services,Ghaziabad,2014-05-03,3315000.0,2933257.0,381743.0,5985669049,Active,0.1152,Profit
+B034,Mehta Stationers Pvt Ltd,Healthcare,Ghaziabad,2006-09-07,2230000.0,1459062.0,770938.0,9737599912,Active,0.3457,Profit
+B035,Joshi Travels Co.,Food,Meerut,2008-05-05,1669000.0,1143074.0,525926.0,,Active,0.3151,Profit
+B036,Bansal Plastics & Sons I,Tech,Ghaziabad,2010-08-14,5794000.0,4307218.0,1486782.0,,Active,0.2566,Profit
+B037,Bansal Plastics,Manufacturing,Noida,2007-05-07,5442000.0,4041000.0,1401000.0,,Inactive,0.2574,Profit
+B038,Reddy Constructions East,Manufacturing,Meerut,2018-12-19,824000.0,710000.0,114000.0,9155417727,Active,0.1383,Profit
+B039,Jain Medical Store Pvt Ltd,Tech,Ghaziabad,2007-07-19,7252000.0,4394171.0,2857829.0,,Active,0.3941,Profit
+B040,Sethi Opticals,Services,Meerut,2005-01-22,4564000.0,3241825.0,1322175.0,9678296492,Inactive,0.2897,Profit
+B041,Joshi Travels & Sons,Food,Meerut,2020-10-26,740000.0,738000.0,2000.0,9950826208,Active,0.0027,Profit
+B042,Goyal Steel Works,Manufacturing,Gurugram,2010-12-12,2109000.0,1754043.0,354957.0,9672972597,Active,0.1683,Profit
+B043,Kapoor Fashion Hub Co.,Retail,Meerut,2007-04-04,1497000.0,1392582.0,104418.0,1735548452,Active,0.0698,Profit
+B044,Kapoor Fashion Hub & Sons,Tech,Delhi,2015-04-23,3159000.0,2946534.0,212466.0,3070619681,Inactive,0.0673,Profit
+B045,Sethi Opticals & Sons,Retail,Delhi,2011-08-21,5073000.0,3882749.0,1190251.0,,Closed,0.2346,Profit
+B046,Mehta Stationers Enterprises,Services,Gurugram,2019-02-03,8687000.0,9147430.0,-460430.0,5782327224,Active,-0.053,Loss
+B047,Rao Software Solutions,Services,Meerut,2007-08-02,3995000.0,4283591.0,-288591.0,,Active,-0.0722,Loss
+B048,Arora Sports Pvt Ltd I,Healthcare,Delhi,2017-08-05,6203000.0,5717479.0,485521.0,9797115550,Closed,0.0783,Profit
+B049,Patel Hardware & Sons,Services,Gurugram,2021-04-19,7153000.0,6454897.0,698103.0,9995171130,Closed,0.0976,Profit
+B050,Patel Hardware Pvt Ltd,Food,Ghaziabad,2019-05-24,6011000.0,5696391.0,314609.0,,Closed,0.0523,Profit
+B051,Pandey Print House Unit-2,Food,Delhi,2007-06-20,7132000.0,7339600.0,-207600.0,9484659715,Inactive,-0.0291,Loss
+B052,Saxena Tutorials Enterprises I,Manufacturing,Lucknow,2022-07-27,3078000.0,1773000.0,1305000.0,9531233244,Active,0.424,Profit
+B053,Rao Software Solutions Enterprises,Healthcare,Lucknow,2018-05-26,7291000.0,5432606.0,1858394.0,,Closed,0.2549,Profit
+B054,Patel Hardware & Sons I,Services,Meerut,2008-06-04,4285000.0,3012071.0,1272929.0,,Inactive,0.2971,Profit
+B055,Tiwari Catering Co.,Retail,Noida,2017-12-18,7839000.0,5965382.0,1873618.0,2418455890,Inactive,0.239,Profit
+B056,Arora Sports Enterprises,Retail,Lucknow,2009-01-17,8688000.0,6172551.0,2515449.0,9805818425,Inactive,0.2895,Profit
+B057,Kumar Cycle Store Enterprises East,Retail,Ghaziabad,2006-02-12,2120000.0,2125642.0,-5642.0,9574641329,Inactive,-0.0027,Loss
+B058,Khan Mobile Point,Food,Meerut,2011-10-06,7807000.0,4329857.0,3477143.0,9902100304,Closed,0.4454,Profit
+B059,Sethi Opticals Co.,Retail,Meerut,2012-01-09,458000.0,505035.0,-47035.0,9787346882,Active,-0.1027,Loss
+B060,Kapoor Fashion Hub & Sons East,Manufacturing,Lucknow,2021-09-23,1250000.0,1340393.0,-90393.0,,Active,-0.0723,Loss
+B061,Kumar Cycle Store Co.,Retail,Delhi,2017-08-24,8263000.0,6845000.0,1418000.0,9173321814,Active,0.1716,Profit
+B062,Reddy Constructions Pvt Ltd,Retail,Gurugram,2013-08-16,1378000.0,1249085.0,128915.0,,Active,0.0936,Profit
+B063,Saxena Tutorials Co.,Food,Ghaziabad,2014-11-09,3390000.0,2754900.0,635100.0,6077963578,Inactive,0.1873,Profit
+B064,Goyal Steel Works Co.,Tech,Delhi,2008-03-04,4410000.0,3967428.0,442572.0,9700138002,Active,0.1004,Profit
+B065,Jain Medical Store,Services,Meerut,2008-06-23,2628000.0,3022163.0,-394163.0,7901314947,Inactive,-0.15,Loss
+B066,Thakur Salon,Healthcare,Meerut,2021-02-20,752000.0,577971.0,174029.0,9903734960,Closed,0.2314,Profit
+B067,Khan Mobile Point & Sons,Tech,Lucknow,2018-07-25,5520000.0,5741543.0,-221543.0,,Active,-0.0401,Loss
+B068,Rastogi Pharma,Unknown,Noida,2016-04-05,553000.0,321820.0,231180.0,,Active,0.418,Profit
+B069,Chauhan Furniture Enterprises,Retail,Ghaziabad,2008-05-09,432000.0,293497.0,138503.0,9933409017,Active,0.3206,Profit
+B070,Joshi Travels,Healthcare,Delhi,2012-11-30,3954000.0,2178411.0,1775589.0,9813363254,Active,0.4491,Profit
+B071,Rao Software Solutions Co.,Retail,Noida,2019-09-27,1044000.0,725241.0,318759.0,,Active,0.3053,Profit
+B072,Chauhan Furniture,Services,Delhi,2012-01-30,725000.0,784068.0,-59068.0,9479035048,Inactive,-0.0815,Loss
+B073,Chauhan Furniture & Sons,Services,Delhi,2016-08-24,6588000.0,5590010.0,997990.0,8896433652,Closed,0.1515,Profit
+B074,Mishra Book Depot & Sons,Unknown,Gurugram,2011-02-28,4778000.0,5489398.0,-711398.0,,Active,-0.1489,Loss
+B075,Joshi Travels East,Food,Gurugram,2022-02-12,5947000.0,4598268.0,1348732.0,9527385805,Active,0.2268,Profit
+B076,Dubey Organic Foods & Sons Ii,Tech,Noida,2008-01-17,9062000.0,6073000.0,2989000.0,,Closed,0.3298,Profit
+B077,Arora Sports Unit-2,Tech,Delhi,2010-04-24,1725000.0,1769000.0,-44000.0,,Active,-0.0255,Loss
+B078,Yadav Dairy Farm Co. I,Manufacturing,Meerut,2022-07-02,8966000.0,6784651.0,2181349.0,9639945876,Closed,0.2433,Profit
+B079,Rao Software Solutions East,Services,Delhi,2007-02-05,8238000.0,7567896.0,670104.0,,Active,0.0813,Profit
+B080,Mehta Stationers Enterprises North,Tech,Gurugram,2017-03-28,563000.0,609953.0,-46953.0,9419367188,Inactive,-0.0834,Loss
+B081,Dubey Organic Foods Pvt Ltd,Healthcare,Noida,2016-07-20,5316000.0,5350017.0,-34017.0,9231556899,Inactive,-0.0064,Loss
+B082,Joshi Travels Co. Unit-2,Food,Unknown,2011-12-03,6565000.0,5449534.0,1115466.0,4155238199,Active,0.1699,Profit
+B083,Goyal Steel Works Pvt Ltd,Manufacturing,Noida,2017-08-08,751000.0,436101.0,314899.0,,Active,0.4193,Profit
+B084,Malhotra Jewellers Pvt Ltd,Food,Delhi,2005-11-26,7965000.0,6298978.0,1666022.0,,Inactive,0.2092,Profit
+B085,Yadav Dairy Farm Enterprises,Tech,Lucknow,2015-08-27,6490000.0,5762000.0,728000.0,,Closed,0.1122,Profit
+B086,Goyal Steel Works East,Manufacturing,Delhi,2022-05-17,6980000.0,6859000.0,121000.0,9120333847,Closed,0.0173,Profit
+B087,Goyal Steel Works Co. I,Healthcare,Delhi,2019-11-08,6826000.0,6051467.0,774533.0,7987854869,Closed,0.1135,Profit
+B088,Dubey Organic Foods Co.,Manufacturing,Noida,2021-03-09,6344000.0,5622639.0,721361.0,5976761712,Closed,0.1137,Profit
+B089,Goyal Steel Works & Sons,Food,Delhi,2020-08-13,7034000.0,7806434.0,-772434.0,,Active,-0.1098,Loss
+B090,Rastogi Pharma & Sons,Manufacturing,Gurugram,2012-03-16,2796000.0,3154862.0,-358862.0,9287974375,Active,-0.1283,Loss
+B091,Sethi Opticals Pvt Ltd,Unknown,Ghaziabad,2012-07-07,4072000.0,3712319.0,359681.0,9641394238,Active,0.0883,Profit
+B092,Jain Medical Store Enterprises North,Manufacturing,Lucknow,2007-02-21,4311000.0,3407845.0,903155.0,9352889019,Active,0.2095,Profit
+B093,Chauhan Furniture Pvt Ltd,Food,Meerut,2020-10-12,8964000.0,9895000.0,-931000.0,9494647257,Inactive,-0.1039,Loss
+B094,Bhatia Footwear,Food,Gurugram,2016-11-05,7810000.0,6758024.0,1051976.0,,Active,0.1347,Profit
+B095,Saxena Tutorials & Sons,Retail,Meerut,2017-08-25,1865000.0,1490610.0,374390.0,,Active,0.2007,Profit
+B096,Thakur Salon North,Retail,Noida,2022-03-06,5423000.0,5484731.0,-61731.0,,Inactive,-0.0114,Loss
+B097,Kapoor Fashion Hub,Retail,Noida,2014-07-07,6186000.0,6071289.0,114711.0,,Inactive,0.0185,Profit
+B098,Verma Textiles,Tech,Ghaziabad,2006-02-03,5976000.0,5696407.0,279593.0,,Inactive,0.0468,Profit
+B099,Thakur Salon East,Food,Meerut,2018-04-09,4035000.0,2366828.0,1668172.0,9820848547,Inactive,0.4134,Profit
+B100,Sethi Opticals Unit-2,Healthcare,Delhi,2014-05-06,6107000.0,5419544.0,687456.0,9360767346,Active,0.1126,Profit
